@@ -35,7 +35,9 @@ At the end of the game you will see the number of moves it took, time spent play
 Rating:
 
 3 stars: 12 moves and less
+
 2 stars: more than 12, less than 20 moves
+
 1 star: equal to and more than 20 moves
 
 
