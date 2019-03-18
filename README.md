@@ -15,7 +15,9 @@ This is a memory game made as part of Udacity Front End Nanodegree Program.
 ## How To Play
 
 1.Download or clone the repository on your machine.
+
 2.Extract the .zip file
+
 3.Open index.html in your browser
 
 
