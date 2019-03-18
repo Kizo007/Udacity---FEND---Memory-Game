@@ -2,6 +2,7 @@
 
 Table of Contents
 - Introdruction
+- How To Play
 - How The Game Works
 - Instructions
 - Contributing
@@ -11,7 +12,11 @@ Table of Contents
 
 This is a memory game made as part of Udacity Front End Nanodegree Program.
 
-Play the game in your browser by following this link: https://codepen.io/kizo007/pen/LaLyNb
+## How To Play
+
+1.Download or clone the repository on your machine.
+2.Extract the .zip file
+3.Open index.html in your browser
 
 
 ##  How The Game Works
